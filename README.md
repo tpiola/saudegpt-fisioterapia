@@ -34,3 +34,5 @@ src/
 ## Dependências
 
 Este projeto depende de `@saudegpt/core` para componentes compartilhados.
+
+<!-- deploy trigger -->
